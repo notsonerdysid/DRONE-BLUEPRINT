@@ -21,6 +21,7 @@ I’m moving from "wondering how things fly" to "making things fly." This projec
 
 
 
+
 The Build->
 
 
@@ -35,12 +36,14 @@ Mission     : To achieve a stable, high-speed flight while maintaining a "clean"
 
 
 
+
 Fundings->
 
 
 I've spent time researching parts that balance power with durability.
 Total Budget: ~$376
-Detailed Parts List: [Link Text](BOM,md)
+
+Detailed Parts List: [Link Text](BOM.md)
 
 
 In future, I'll upgrade this same drone into crazy fpv drone but for now this is more than enough.
