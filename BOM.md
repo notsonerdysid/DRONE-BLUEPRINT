@@ -28,7 +28,7 @@ this works perfectly with t14 and also very affordable.
 5. 21700 Li-ion Batteries
 Quantity: 2x
 Price: inr 1,000 (~$11)
-Link: Amazon.in
+Link: [Amazon.in](https://www.amazon.in/dp/B0GMS2JZZL/ref=sr_1_3?crid=3713XN3BEPLSR&dib=eyJ2IjoiMSJ9.p-XFi8scExkrGGvfrRMiAsSh8re9roT0T2VD1luwaGUIc8AeSRbgv66DiPPU0bMvo_7wJNxfe_7O9_WbTXWEF5yLXNi_m1Q-IU_JmG5ShaPgyeXE7E-Hd4Evdod1YiwdoDXcV5bC8CfEPmKAAUiW1BM4-pAnw0IZaZ0YlpFO7V6FsKm1G5_j-xSJUBJt9JqCZD5OoIzf5bdW74B_SfEpg1Gw5dRM2fipTqa3X-h1LW5fa8KA2oFjxBBW_daKlfCHtzLdTurdLHGdG9B6aCp65meh3r_AeXPZjj_RwafQcC4.JLnLeAN0BzunzfnJDCoGz_z1IyNRPey8-SbwEFS6-Dk&dib_tag=se&keywords=21700+Li-ion&qid=1770997506&s=electronics&sprefix=21700+li-ion+%2Celectronics%2C382&sr=1-3)
 these are the batteries for my t14.
 
 6. 4S 1500mAh LiPo Battery
