@@ -10,3 +10,11 @@ Today I finalize all the components that I would need within the budget of $400.
 #feb12,2026: day4->
 Today I watched alot of drone making videos on youtube and omg ive been this excited watching some random drone diy. I continued my Onshape tutorial, sadly that guy whom i had been following hadnt posted the whole series yet thus i started watching another tutorial. Ya the main thing i did was continuing Onshape tutorial. Now im watching too tall toby's series. And today I also launched this project in hackclub blueprint. Yup that was my day!
 
+#feb13,2026: day5->
+Today I wanted to test my 3d designing skills making some stuffs that i saw online, I wouldnt say that i did really a good job but i made it. Thus I made my mind to start designing my drone. Unlike common designs I see on the internet, I really wanted to make my drone cool, stand out, overall unique. Thats why I try to imagine and create my drone which looked like this
+![DRONE](https://github.com/user-attachments/assets/810ac676-7a93-4d15-acb1-88dc56b0d139)
+which in my very noob opinion look damn cool but i have some problem which i need to solve:
+1. I dont know the big physics behind it thus it might be too weak.
+2. I have not considered how all those component will come together in my drone.
+3. I not very confident making actual 3d design rn.
+hopefully I can come with a overcome these problem asap.  Hopefully I'll make myself confident enough in this weekend, and ill be looking into schematics design tomorrow for my circuits. thanks, that was my day. 
