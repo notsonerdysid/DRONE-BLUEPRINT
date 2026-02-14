@@ -15,14 +15,14 @@ best at the market for beginners + very affordable compared to others with very 
 
 3. Jumper T14 Radio Controller
 Quantity: 1x
-Price: inr 10,500 (~$116)
-https://robu.in/product/jumper-t14-radio-controller-with-standard-gimbals-elrs/
+Price: inr 10,000 (~$110)
+https://indianrobostore.com/product/jumper-t14-radio-controller-transmitter-24ghz-elrs-hall
 also very good remote controller id say. Its hall sensor gimbals offer high precision for acrobatic line-of-sight flying and much more expensive id say but its worth it.
 
 4. ELRS Nano Receiver
 Quantity: 1x
-Price: inr 1,519 (~$16)
-https://www.uavmarketplace.in/products/radiomaster-ep1-elrs-2-4g-nano-receiver/895789000001621924
+Price: inr 1,500 (~$16)
+https://indianrobostore.com/product/hglrc-elrs-24g-rx-t-receiver-for-fpv-drones-and-rc-aircraft
 i chose esp 1 because this works perfectly with t14 and also very affordable.
 
 6. 21700 Li-ion Batteries
@@ -51,9 +51,9 @@ i choose these 4-inch propellers for their efficiency and balance.
 
 10. VIFLY Smoke Stopper
 Quantity: 1x
-Price: inr 1,979(~$22)
-https://www.amazon.in/gp/product/B0FJ85BXF5/ref=ox_sc_act_image_1?smid=A3E3KJ8YZ6GS32&psc=1
-This electronic fuse protects the flight stack from short circuits during the first power-up. It is imp as it protects my FC
+Price: inr 1,223(~$14)
+(https://indianrobostore.com/product/vifly-shortsaver-2-smart-smoke-stopper-electronic-fuse-to-prevent-short-circuit-and-overload-for-rc-fpv-drones-available-with-xt30-and-xt60-connectors)
+Its my first drone so It is imp as it protects my FC
 
 11. LiPo Voltage Beeper
 Quantity: 1x
@@ -66,8 +66,18 @@ quantity: 1x
 price= npr 3000(~$21)
 well, ill be designing my own frame thus it'll be more affordable than frames that we will find on the market.
 
+13. m3 20mm screws
+quantity: 1x (pack of 20)
+price= npr 519(~$3.6)
+https://www.daraz.com.np/products/20pcs-black-carbon-steel-hex-socket-screws-m2m3m4m5-flat-head-allen-bolts-assorted-sizes-i509492119-s2278580146.html
 
-these are the things that i would need, besides that things that i would need like soldering iron, screws, screwdriver, zip tie etc, Ill manage those my own.
+14. strap
+quantity: 1x
+price: inr 230(~$2)
+https://www.amazon.in/gp/product/B0CVH2BLN7/ref=ox_sc_act_image_3?smid=A2L3Q8BDNR2VZH&psc=1
+strap to hold my battery
+
+these are the things that i would need, besides that things that i would need like soldering iron, screwdriver, zip tie, double tape,etc thus I;ll manage those my own.
 
 
 
