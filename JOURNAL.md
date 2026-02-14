@@ -23,7 +23,7 @@ hopefully I can come with a overcome these problem asap.  Hopefully I'll make my
 Today I was really lock in. I watched alot of Onshape tutorials. But most importantly I learned the pinouts for th f405 v4 and made a rough schematics diagram which looked like this:
 ![schematics for drone](https://github.com/user-attachments/assets/9d1214f3-8fd1-49ec-b0c0-8eb9567aa619)
 well obs as you can see i did it on paper but to be honest which is not bad, i tried to be for make it fairly as possible. Well tomorrow I'll use a software like kicad or etc
-making this and i cant believe it but learing those those stuff took me alot of time and i wasnt even aware of that. Similarly, I updated my BOM and added from another site which looks legit and is more affordable also. Tomorrow ill update my whole BOM from text to exell sheet, which in my opinion will be much better for me to update and also easy for others to see. Well thats all, let me put some of my other work also
+to make this and i cant believe it but making and learing those those stuff took me alot of time. Similarly, I updated my BOM because i got to know about another site for buying my stuff which looks legit and is more affordable also. Tomorrow ill update my whole BOM from text to exell sheet, which in my opinion will be much better for me to update and also easy for others to see. Well thats all, let me put some of my other work also
 ![rough schematic](https://github.com/user-attachments/assets/e434856a-7d8f-47c7-b8ec-d52e0931a0fd)
 this was me learning about f405 and creating rough schematics
 <img width="1140" height="886" alt="Screenshot 2026-02-14 143127" src="https://github.com/user-attachments/assets/0c1436e6-0213-4954-b575-b8bebf03f1a1" />
