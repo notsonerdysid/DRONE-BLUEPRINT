@@ -1,4 +1,4 @@
-<img width="1140" height="886" alt="Screenshot 2026-02-14 143127" src="https://github.com/user-attachments/assets/bdf23e6f-e1f8-46cf-9867-3837b188ea33" /><img width="1140" height="886" alt="Screenshot 2026-02-14 143127" src="https://github.com/user-attachments/assets/bdf23e6f-e1f8-46cf-9867-3837b188ea33" />![schematics for drone](https://github.com/user-attachments/assets/9d1214f3-8fd1-49ec-b0c0-8eb9567aa619)#feb9,2026: DAY 1->
+#feb9,2026: DAY 1->
 I have been looking to make a drone for a while but funds were holding me back. I got to know about hack club and its funding yesterday. Today I created this repo and I will be researching for the parts and all the things that I would require. I have been using tinkercad to do 3d design now i will be shifting on Onshape which is free and a bit professional webapp.
 
 #feb10,2026: DAY 2->
@@ -25,6 +25,7 @@ Today I was really lock in. I watched alot of Onshape tutorials. But most import
 well obs as you can see i did it on paper but to be honest which is not bad, i tried to be for make it fairly as possible. Well tomorrow I'll use a software like kicad or etc
 making this and i cant believe it but learing those those stuff took me alot of time and i wasnt even aware of that. Similarly, I updated my BOM and added from another site which looks legit and is more affordable also. Tomorrow ill update my whole BOM from text to exell sheet, which in my opinion will be much better for me to update and also easy for others to see. Well thats all, let me put some of my other work also
 ![rough schematic](https://github.com/user-attachments/assets/e434856a-7d8f-47c7-b8ec-d52e0931a0fd)
+this was me learning about f405 and creating rough schematics
 <img width="1140" height="886" alt="Screenshot 2026-02-14 143127" src="https://github.com/user-attachments/assets/0c1436e6-0213-4954-b575-b8bebf03f1a1" />
 this was a very simple 3d design but I used maths while doing this which was really tuff and fun to do so + this 2d figure looks so complex so i add it lol.
 
