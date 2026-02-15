@@ -22,7 +22,7 @@ Motor       : EMAX RS2205
 Firmware    : Betaflight
 Mission     : To achieve a stable, high-speed flight while maintaining a "clean" build.
 
-Detailed Parts List with pricing and etc: [Link Text](BOM.csv)
+Detailed Parts List with pricing and etc: [Link Text](BOM.md)
 
 How would I fly this?
 I will be using Jumper T14 Radio Controller which is quite expensive but I strongly believe its worth it because I'll upgrade this same drone in fpv monster. Similarly I will use ELRS Nano as my Receiver which is affordable and compatible with my t14.
@@ -31,8 +31,8 @@ I will be using Jumper T14 Radio Controller which is quite expensive but I stron
 schematics circuit diagram:
 I created my schematics diagram with the help of E,which looks like this:
 <img width="730" height="515" alt="image" src="https://github.com/user-attachments/assets/fae1e27f-8f86-43b9-a7be-4627f83d132f" />
-for more info you can check out this->SCHEMATICS.md
+for more info you can check out this->[SCHEMATICS/SCHEMATICS.md](https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/SCHEMATICS/SCHEMATICS.md)
 
-In future, I'll upgrade this same drone into crazy fpv drone but for now this is more than enough.
+
 //thanku for reading my story :)
 
