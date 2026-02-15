@@ -31,7 +31,9 @@ I will be using Jumper T14 Radio Controller which is quite expensive but I stron
 schematics circuit diagram:
 I created my schematics diagram with the help of E,which looks like this:
 <img width="730" height="515" alt="image" src="https://github.com/user-attachments/assets/fae1e27f-8f86-43b9-a7be-4627f83d132f" />
-for more info you can check out this->[SCHEMATICS/SCHEMATICS.md](https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/SCHEMATICS/SCHEMATICS.md)
+
+for more info you can check out this link:
+[SCHEMATICS/SCHEMATICS.md](https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/SCHEMATICS/SCHEMATICS.md)
 
 
 //thanku for reading my story :)
