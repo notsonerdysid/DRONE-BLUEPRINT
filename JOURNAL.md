@@ -38,6 +38,33 @@ I am really happy because my repo looks its comming together. I also created new
 <img width="1373" height="745" alt="image" src="https://github.com/user-attachments/assets/750b90af-e808-4ba6-8a2e-45f05160501f" />
 haha that was my day. Now tomorrow ill look which material to use and some tutorials on designing my frame.
 
+#feb 16, 2026: day8->
+Last night before sleeping I had a great idea for my Drone that are:
+1. add automatics landing pad using ultrasonic sensors and servos.
+2. add a parachute that'll only turn on if my fc detects downward accleration of g for significant time for drone.
+I believe both ideas are great but for now i will only be implementing only landing pads.
+Talking about today I challenged myself to make some cad design that i saw on internet. I actually got it which looked like this
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/07f1ae7a-1a11-4934-81ee-7e6b2ef2c28b" />
+
+the question was this:<img width="1919" height="1079" alt="Screenshot 2026-02-16 164402" src="https://github.com/user-attachments/assets/07cba9e8-ac19-41e1-8040-10a457c7943d" />
+
+I think i did got a good job here. anyways besides all the main thing I did was learning about the drone frame, what ive learned today
+1. what are the physical quantity i need to consider before creating a drone, which were thurst, torque, stress and center of gravity.
+what i learned actually?
+i need to have stable thrust, ill accomplish this by tuning with suitable pid value which will make thurst stable and minimizes torque and stable torque minimize stress.
+
+And I researched for the dimension for my drone's frame:
+Wheelbase: ~235mm
+Each arm length: 120mm
+thickness: 5mm
+width: 15mm
+propeller: 5inch
+
+
+and I also estimate the drone's weight which is arounf 600g; hey my motor can produce max thrust of 1kg / motor thus total thrust=4000g;
+my max thrust to weight ratio is 20:3 which is very nice.
+
+Tomorrow I'll think about my landing pad design because I have some flaws with my idea, will edit BOM, and thats all.
 
 
 
