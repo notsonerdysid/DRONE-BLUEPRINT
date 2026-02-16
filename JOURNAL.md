@@ -29,8 +29,12 @@ this was me learning about f405 and creating rough schematics
 <img width="1140" height="886" alt="Screenshot 2026-02-14 143127" src="https://github.com/user-attachments/assets/0c1436e6-0213-4954-b575-b8bebf03f1a1" />
 this was a very simple 3d design but I used maths while doing this which was really tuff and fun to do so + this 2d figure looks so complex so i add it lol.
 
+
+
 #feb 15,2026: day7->
+
 I think 80% of my work before submitting is done. Yesterday I had researched on pinouts and etc so Today I made the real deal through EasyEDA. After that I made my the schematics which turned out to be like this:
+
 <img width="730" height="515" alt="Screenshot 2026-02-15 132946" src="https://github.com/user-attachments/assets/edb93df4-fbe9-471d-b659-a25c930499c9" />
 
 I am really happy because my repo looks its comming together. I also created new exell sheet of my BOM thus itll look more organized https://docs.google.com/document/d/1cGEEqKZGyfhhKSGbjoTj9GcO14NI_GNIEH85b2QIAr4/edit?tab=t.0
@@ -61,7 +65,7 @@ width: 15mm
 propeller: 5inch
 
 
-and I also estimate the drone's weight which is arounf 600g; hey my motor can produce max thrust of 1kg / motor thus total thrust=4000g;
+and I also estimate the drone's weight which is around 600g; hey my motor can produce max thrust of 1kg / motor thus total thrust=4000g;
 my max thrust to weight ratio is 20:3 which is very nice.
 
 Tomorrow I'll think about my landing pad design because I have some flaws with my idea, will edit BOM, and thats all.
