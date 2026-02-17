@@ -71,6 +71,10 @@ my max thrust to weight ratio is 20:3 which is very nice.
 Tomorrow I'll think about my landing pad design because I have some flaws with my idea, will edit BOM, and thats all.
 
 
+feb17,2026: day9->
+Since I am adding a landing pad to my Drone which rather than being controlled by an ultrasonic sensor , I will be controlling it with my remote. You may ask why did I came with this conclusion. It is because If i only rely on my sensor it’ll be doomed because It is merely a sensor which may throw an error sometimes, if it detects anything that is not supposed to be ground itself thus it’ll open my landing pad mid air which directly affects drone flight. Thats why, controlling it remotely is the best option i came with. Similarly, for 5" drone making frame that i had imagined might not be the best idea also. Here's why, since that design's whole idea is supposed to be small thin straw like width in such a pattern that'll distrubute the forces, which will make it light weight and durable but it is only possible when drone itself is small for 5" drone with wheel base of 235mm that wouldnt be a great idea + since I am adding a landing pad to it, it'll be a hassle to do so.    
+
+
 
 
 
