@@ -72,7 +72,15 @@ Tomorrow I'll think about my landing pad design because I have some flaws with m
 
 
 feb17,2026: day9->
-Since I am adding a landing pad to my Drone which rather than being controlled by an ultrasonic sensor , I will be controlling it with my remote. You may ask why did I came with this conclusion. It is because If i only rely on my sensor it’ll be doomed because It is merely a sensor which may throw an error sometimes, if it detects anything that is not supposed to be ground itself thus it’ll open my landing pad mid air which directly affects drone flight. Thats why, controlling it remotely is the best option i came with. Similarly, for 5" drone making frame that i had imagined might not be the best idea also. Here's why, since that design's whole idea is supposed to be small thin straw like width in such a pattern that'll distrubute the forces, which will make it light weight and durable but it is only possible when drone itself is small for 5" drone with wheel base of 235mm that wouldnt be a great idea + since I am adding a landing pad to it, it'll be a hassle to do so.    
+Since I am adding a landing pad to my Drone which rather than being controlled by an ultrasonic sensor , I will be controlling it with my remote. You may ask why did I came with this conclusion. It is because If i only rely on my sensor it’ll be doomed because It is merely a sensor which may throw an error sometimes, if it detects anything that is not supposed to be ground itself thus it’ll open my landing pad mid air which directly affects drone flight. Thats why, controlling it remotely is the best option i came with. Similarly, for 5" drone making frame that i had imagined and mentioned earlier might not be the best idea also. Here's why, since that design's whole idea is supposed to be small thin straw like width in such a pattern that'll distrubute the forces, which sure will make it light weight but it is only possible when drone itself is small for 5" drone with wheel base of 235mm that wouldnt be a great idea + since I am adding a landing pad to it, it'll be a hassle to do so.  
+And talking about what i did today. I was really really locked in. I bet I have spend more than 8 hours only designing my drone, making blue brintprint for drone.
+Well though ive spend alot time today in making the design i not very proud what ive came up with + Im not done either but anyway here it is:
+<img width="1919" height="957" alt="Screenshot 2026-02-17 215134" src="https://github.com/user-attachments/assets/5632d9de-0c60-46fd-a17c-c900a6718813" />
+
+and my blue print looks like this btw all the design are without landing pad:
+<img width="1380" height="791" alt="image" src="https://github.com/user-attachments/assets/827df15f-6a8f-41de-840c-683a5b3373eb" />
+thats all i did today, my work donot reflect 8 hours ngl but i clearly made alot of mistakes before which led me learn more stuff.
+
 
 
 
