@@ -82,6 +82,8 @@ and my blue print looks like this btw all the design are without landing pad:
 thats all i did today, my work donot reflect 8 hours ngl but i clearly made alot of mistakes before which led me learn more stuff.
 
 
+
+
 feb18,2026: day 10->
 I spend over almost 6 hours making and deleting the my drone design. I changed all the layout again. I think ill go with true-X shape because how beginner friendly it is.
 All put all the ss i took today:
