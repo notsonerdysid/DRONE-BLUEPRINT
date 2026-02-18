@@ -1,4 +1,7 @@
-<img width="1919" height="1016" alt="Screenshot 2026-02-17 173947" src="https://github.com/user-attachments/assets/9a1371bc-df3a-4d3f-8bf6-21fb3bdff756" />#I'll put all the SS took for my CAD journey: everything i did arenot necessarily added:
+#I'll put all the SS took for my CAD journey: everything i did arenot necessarily added:
+
+
+
 <img width="1919" height="1079" alt="Screenshot 2026-02-13 170344" src="https://github.com/user-attachments/assets/e35a9099-9fd6-4418-a479-b2dabeb60e1e" />
 <img width="1919" height="1079" alt="Screenshot 2026-02-13 174438" src="https://github.com/user-attachments/assets/4ddbf1a1-02b9-4002-93b3-258c0d97a600" />
 <img width="1919" height="1079" alt="Screenshot 2026-02-14 130051" src="https://github.com/user-attachments/assets/cf9d7f88-c7b9-45e1-8c1c-3a6f6e3bf852" />
@@ -9,7 +12,9 @@
 <img width="1919" height="961" alt="image" src="https://github.com/user-attachments/assets/7c423a49-bfeb-42df-8be6-522ef77d5d8f" />
 <img width="1919" height="961" alt="image" src="https://github.com/user-attachments/assets/ee8d7bb4-703c-4168-b2e4-57699e0374c6" />
 <img width="1919" height="959" alt="Screenshot 2026-02-16 214825" src="https://github.com/user-attachments/assets/1f057b52-65ef-4213-b055-3d4f762f124c" />
+
 //by making this metal thingy i got bit comfident and started designing my drone frame
+
 <img width="1919" height="1016" alt="Screenshot 2026-02-17 173947" src="https://github.com/user-attachments/assets/f0be8d89-20ef-4fa3-98bb-a46ca10bd0c6" />
 <img width="1919" height="952" alt="Screenshot 2026-02-17 174249" src="https://github.com/user-attachments/assets/36222b65-27f0-491d-babb-2d6f17947257" />
 <img width="1919" height="957" alt="Screenshot 2026-02-17 215134" src="https://github.com/user-attachments/assets/628eed21-4408-4b96-8e19-1a51880a7d18" />
