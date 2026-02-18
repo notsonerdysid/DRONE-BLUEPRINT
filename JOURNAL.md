@@ -82,6 +82,22 @@ and my blue print looks like this btw all the design are without landing pad:
 thats all i did today, my work donot reflect 8 hours ngl but i clearly made alot of mistakes before which led me learn more stuff.
 
 
+feb18,2026: day 10->
+I spend over almost 6 hours making and deleting the my drone design. I changed all the layout again. I think ill go with true-X shape because how beginner friendly it is.
+All put all the ss i took today:
+<img width="1019" height="701" alt="Screenshot 2026-02-18 155135" src="https://github.com/user-attachments/assets/b1c4abb5-204c-4403-a1db-e664d9c499cd" />
+<img width="1919" height="961" alt="Screenshot 2026-02-18 173121" src="https://github.com/user-attachments/assets/29464e5c-58e1-4480-9c2e-e72e7b3b5780" />
+<img width="1919" height="960" alt="Screenshot 2026-02-18 174902" src="https://github.com/user-attachments/assets/eed45861-3f3a-41ef-a6c6-f675374185f4" />
+<img width="1919" height="964" alt="Screenshot 2026-02-18 214305" src="https://github.com/user-attachments/assets/873fb97b-d61f-42f8-9d29-3c9e6ef70d0b" />
+<img width="1919" height="962" alt="Screenshot 2026-02-18 214322" src="https://github.com/user-attachments/assets/198df4b2-83b2-4441-9a9c-d2a18d56a7f4" />
+<img width="1919" height="952" alt="Screenshot 2026-02-18 214450" src="https://github.com/user-attachments/assets/f6f2de55-e4a8-429a-aa93-e1a14999c77e" />
+To be honest im not happy how it has turned out😔. I think ill stick with designing for more than a week ig.
+
+
+
+
+
+
 
 
 
