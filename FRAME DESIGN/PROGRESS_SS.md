@@ -25,6 +25,17 @@
 <img width="1919" height="962" alt="Screenshot 2026-02-18 214322" src="https://github.com/user-attachments/assets/90a1a1ba-8f36-4890-b5cc-b26b754d608a" />
 <img width="1919" height="952" alt="Screenshot 2026-02-18 214450" src="https://github.com/user-attachments/assets/c60fde75-a5b9-40d2-b6e3-15008bb7a2a4" />
 
+// I made another frame from scratch
+<img width="1919" height="960" alt="Screenshot 2026-02-19 202204" src="https://github.com/user-attachments/assets/f1bf3f32-e86c-4c82-b30c-22671be83fc7" />
+<img width="1919" height="949" alt="Screenshot 2026-02-19 202230" src="https://github.com/user-attachments/assets/c7c4de32-8dec-4499-8ff7-450a69f22b39" />
+<img width="1919" height="1019" alt="Screenshot 2026-02-19 202242" src="https://github.com/user-attachments/assets/cd9a4d45-8266-4fb0-b2c9-03969ff6757a" />
+<img width="1919" height="957" alt="Screenshot 2026-02-19 211203" src="https://github.com/user-attachments/assets/8f4cc342-5ae0-49b8-a842-20ac79aa3b28" />
+<img width="1919" height="958" alt="Screenshot 2026-02-19 211312" src="https://github.com/user-attachments/assets/afa198ec-0cfb-4473-8279-c872422d3a8d" />
+<img width="1919" height="945" alt="Screenshot 2026-02-19 211527" src="https://github.com/user-attachments/assets/d5513428-0486-4d06-a47f-1ff50283b048" />
+<img width="1919" height="952" alt="Screenshot 2026-02-19 214026" src="https://github.com/user-attachments/assets/c37ec285-175b-4545-afa3-05f1b40039c0" />
+<img width="1919" height="964" alt="Screenshot 2026-02-19 220143" src="https://github.com/user-attachments/assets/ef1b2905-120a-4455-af02-a812732af9b3" />
+<img width="1919" height="960" alt="Screenshot 2026-02-19 224409" src="https://github.com/user-attachments/assets/3de1bdbc-8ef9-4f5a-ba68-becbf17e7064" />
+<img width="1919" height="961" alt="Screenshot 2026-02-19 224522" src="https://github.com/user-attachments/assets/bedbd1d4-f121-4bfa-848d-8ed9d39e5864" />
 
 
 
