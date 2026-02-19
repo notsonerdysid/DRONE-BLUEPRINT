@@ -96,6 +96,20 @@ Ill put all the ss i took today:
 To be honest im not happy how it has turned out😔. I think ill stick with designing for more than a week ig.
 
 
+feb 19,2026: day 11->
+I spend around 4-5 hours making designs again from stratch because i didnt like overall frame design of yesterday, now i made a new one which i like: I'll put the all the ss i took today:-
+<img width="1919" height="960" alt="Screenshot 2026-02-19 202204" src="https://github.com/user-attachments/assets/2c68275b-1db6-4177-a90c-7b5bfc0a5a98" />
+<img width="1919" height="949" alt="Screenshot 2026-02-19 202230" src="https://github.com/user-attachments/assets/63e7979a-ad0b-4abd-94b0-ed38171d805a" />
+<img width="1919" height="1019" alt="Screenshot 2026-02-19 202242" src="https://github.com/user-attachments/assets/9c64051c-ef21-4c91-ba15-780884af0db7" />
+<img width="1919" height="957" alt="Screenshot 2026-02-19 211203" src="https://github.com/user-attachments/assets/a2e7b9a3-5237-4f4b-91f3-b01d74650f05" />
+<img width="1919" height="958" alt="Screenshot 2026-02-19 211312" src="https://github.com/user-attachments/assets/3c0c7c88-c507-4a4d-905d-6dd0760799bb" />
+<img width="1919" height="945" alt="Screenshot 2026-02-19 211527" src="https://github.com/user-attachments/assets/229fb894-dcf7-4518-8f7e-a4fe64848681" />
+<img width="1919" height="952" alt="Screenshot 2026-02-19 214026" src="https://github.com/user-attachments/assets/fe72c322-f250-42fe-84c7-2f2ed4dd138e" />
+<img width="1919" height="964" alt="Screenshot 2026-02-19 220143" src="https://github.com/user-attachments/assets/f58f386d-7dd4-4c16-af9e-e6333dc682c9" />
+<img width="1919" height="960" alt="Screenshot 2026-02-19 224409" src="https://github.com/user-attachments/assets/cfe4733a-4e22-4051-a759-6236ac3ab222" />
+<img width="1919" height="961" alt="Screenshot 2026-02-19 224522" src="https://github.com/user-attachments/assets/360ab9b2-8f4e-44ce-a28a-bb926015a71c" />
+Actually it is supposed to has 3 bladed but i mistakely added two, since its quite late already ill fix that tomorrow
+
 
 
 
