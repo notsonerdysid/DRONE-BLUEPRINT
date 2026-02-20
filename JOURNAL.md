@@ -110,6 +110,17 @@ I spend around 4-5 hours making designs again from stratch because i didnt like 
 <img width="1919" height="961" alt="Screenshot 2026-02-19 224522" src="https://github.com/user-attachments/assets/360ab9b2-8f4e-44ce-a28a-bb926015a71c" />
 Actually it is supposed to has 3 bladed but i mistakely added two, since its quite late already ill fix that tomorrow
 
+feb 20,2026: day 12->
+I spend around only 30mins or so making just proppellers today nothing much😅😅. IK IK i procastinate abit today but ITTT WAS FRIDAYYYYYYYYYY AND I WANTTEDD TO PLAY MINECRAFTTTT. I apologize for today, Here are the updates on the design
+<img width="1919" height="951" alt="Screenshot 2026-02-20 210418" src="https://github.com/user-attachments/assets/cf023bc2-4e79-4635-a62f-c669821c71f8" />
+<img width="1919" height="953" alt="Screenshot 2026-02-20 210605" src="https://github.com/user-attachments/assets/3d47f131-45d6-46e1-a287-2169edf0928e" />
+<img width="1919" height="966" alt="Screenshot 2026-02-20 210544" src="https://github.com/user-attachments/assets/538455b1-1848-46c0-a722-c83eb1cdcc94" />
+<img width="1919" height="959" alt="Screenshot 2026-02-20 210550" src="https://github.com/user-attachments/assets/d04acbd7-5cfe-46f4-9eb8-80b18eaf6b3c" />
+<img width="1078" height="686" alt="Screenshot 2026-02-20 211720" src="https://github.com/user-attachments/assets/95bb2144-b12f-4aa2-bde7-87caa7100e69" />
+
+
+
+
 
 
 
