@@ -119,6 +119,24 @@ I spend around only 30mins or so making just proppellers today nothing muchðŸ˜…ð
 <img width="1078" height="686" alt="Screenshot 2026-02-20 211720" src="https://github.com/user-attachments/assets/95bb2144-b12f-4aa2-bde7-87caa7100e69" />
 
 
+feb 21, 2026: day 13->
+Today i am really really proud to make new design. Calm down, Calm down. Yes, I did make a new one heres why: because the v2 design had many flaws like weak points and looks not so nice and etc. thats why I researched on it and made a better design. At this point im done like 90%. I spend alot of time comming with really better design. here's the blueprint:
+<img width="1144" height="2040" alt="image" src="https://github.com/user-attachments/assets/0a73273b-4de6-4714-8d6e-c7d4a102eee4" />
+the main thing ive changed is increasing the width from 5mm to 15mm. itll make my drone durable? Sure but its a trade off for my frame's overall weight. I really though how could i possibly fix that and i got idea ie by creating holes. It'll be still much heavier than earlier but its worth it ig.
+anyway here's my work of today.
+<img width="1916" height="958" alt="Screenshot 2026-02-21 181355" src="https://github.com/user-attachments/assets/ba4fd7af-0b64-48fd-adec-85c1f3c006e3" />
+<img width="1919" height="958" alt="Screenshot 2026-02-21 183003" src="https://github.com/user-attachments/assets/1e60dadc-5741-42bf-97a5-78305e4e8b1a" />
+<img width="1919" height="954" alt="Screenshot 2026-02-21 221254" src="https://github.com/user-attachments/assets/642acec9-7a7f-4d48-b268-794497274791" />
+<img width="1919" height="966" alt="Screenshot 2026-02-21 222541" src="https://github.com/user-attachments/assets/aaadf7a9-5d65-4eea-9def-206ae04558e2" />
+<img width="1919" height="951" alt="Screenshot 2026-02-21 225115" src="https://github.com/user-attachments/assets/e42b721d-4992-49c5-95e2-63a6654f296d" />
+<img width="988" height="725" alt="Screenshot 2026-02-21 232758" src="https://github.com/user-attachments/assets/d565073e-77a8-48ca-8b75-f075a020b2a5" />
+<img width="1919" height="958" alt="Screenshot 2026-02-21 233130" src="https://github.com/user-attachments/assets/7eec5564-bcb6-417e-9eb3-ebbd61765626" />
+<img width="1919" height="952" alt="Screenshot 2026-02-21 233140" src="https://github.com/user-attachments/assets/121749e5-fbb2-42e3-9598-3eb132c06962" />
+<img width="1100" height="717" alt="Screenshot 2026-02-21 234751" src="https://github.com/user-attachments/assets/53177e7e-3a96-461d-8459-102b3a1a3ff9" />
+<img width="1919" height="1012" alt="Screenshot 2026-02-21 234741" src="https://github.com/user-attachments/assets/65892589-a5f4-40bb-8b67-ad6a190501a7" />
+
+
+
 
 
 
