@@ -145,6 +145,7 @@ what i fixed from yesterday's design
 2. i will use heat srews instead of making 3d printed thread
 3. i moved the pocket
 I am sure I will have really fun building this, cant wait
+Well I have drop the idea to add landing pads rightnow because my concern rn is to make the drone fly. after i will fly then only i will upgrade with those stuff + i need to reach budget also.
 
 
 
