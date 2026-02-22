@@ -135,6 +135,16 @@ anyway here's my work of today.
 <img width="1100" height="717" alt="Screenshot 2026-02-21 234751" src="https://github.com/user-attachments/assets/53177e7e-3a96-461d-8459-102b3a1a3ff9" />
 <img width="1919" height="1012" alt="Screenshot 2026-02-21 234741" src="https://github.com/user-attachments/assets/65892589-a5f4-40bb-8b67-ad6a190501a7" />
 
+feb22,2026: day 14->
+FINNNALLYYYY YESSSS FINALLYYY, I am done with frame design: I wouldnt say it is ideal but I think I did great job here. Um there might be alot flaws but i think engineering is more about failing and making it better, I will be printing this design and after i will test it, if i found something that could be better i will be spending my own money here upgarding it. Final product looks like this: with components
+<img width="1917" height="958" alt="Screenshot 2026-02-22 161529" src="https://github.com/user-attachments/assets/7fd320e5-868d-4cb7-b96b-bc24904238e2" />
+without components
+<img width="1215" height="767" alt="Screenshot 2026-02-22 125300" src="https://github.com/user-attachments/assets/79a6ad11-995f-4bb7-94c0-9d9b2e6e1c2a" />
+what i fixed from yesterday's design
+1. turned a single block print into 5 diff parts(1 base plate + 4 arms)-> what this allows is if i crashed or anything i can print that specific part only rathe than spending big money on whole piece again.
+2. i will use heat srews instead of making 3d printed thread
+3. i moved the pocket
+I am sure I will have really fun building this, cant wait
 
 
 
