@@ -148,7 +148,9 @@ I am sure I will have really fun building this, cant wait
 Well I have drop the idea to add landing pads rightnow because my concern rn is to make the drone fly. after i will fly then only i will upgrade with those stuff + i need to reach budget also.
 
 
-
+feb23,2026: day 15->
+As all the main works are complete at this point, today I refined my BOM.md and BOM.csv. I tried to minimize the budget from $400 to $332.93, which i am really proud of. I tried to minimize unnessary expenses and try to only include things that are really value for money.
+y'all can check my new bom here: https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv
 
 
 
