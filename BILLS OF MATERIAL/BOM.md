@@ -1,6 +1,8 @@
-#BILLS OF MATERIAL FOR RED VIMANA:
+## BILS OF MATERIALS FOR RED-VIAMANA
 
-I have mentioned the detailed list of the components that I would need. Well I have made my budget as $400 and if unfortunately i exceed the limit I'll be spending my own money there.
+In this section, I will outlines the components required to build the RED-VIMANA drone. All parts were selected based on performance, reliability, compatibility, and cost efficiency to ensure a stable and safe build while staying within budget.
+The total estimated cost of essential components is $332.93 in which $312.93 for the components and $20 for shipping. 
+A detailed breakdown of all parts, pricing, and links is provided in the attached Bills of Materials document (Google Doc) for clear reference below.
 
-link for my BOM:
+link for my BOM document:
 https://docs.google.com/document/d/1cGEEqKZGyfhhKSGbjoTj9GcO14NI_GNIEH85b2QIAr4/edit?usp=sharing
