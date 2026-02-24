@@ -64,7 +64,6 @@ LINKS TO CHECK OUT MY DRONE DESIGN:-
 onshape link : https://shorturl.at/gFCdQ      
 
 **Budget and Funding Use**  
-
 I have estimated the cost of essential components is approximately $332.19.
 A detailed parts list with pricing and links is provided in the Bills of Materials document.
 LINKS FOR THE BOM:-
@@ -75,7 +74,6 @@ I have tried to make t the budget below the funding limit. Any additional costs 
 Funding will be used only for essential learning components.
 
 **Summary for how I spend my time before submitting**  
-
 I have invested 75+ hours over 16 days designing, engineering and learning new stuff for this drone from very basic.  
 *I have worked researching, learning 3d designing from Tinkercad to Onshape, electronics and schematics planning, Learning how does a Drone even fly, and cost optimization, journalling, debugging Drone design over and over*  
 I litterly design my drone frame again and again for more than 6 times through multiple frame designs to ensure to maintain structural strength, safe and stable flight performance.
