@@ -5,5 +5,5 @@ anywhy here's a image of my schematics:
 
 <img width="730" height="515" alt="image" src="https://github.com/user-attachments/assets/fae1e27f-8f86-43b9-a7be-4627f83d132f" />
 
-if you want to visit my real pdf here is the link->https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/SCH_Schematic1_2026-02-15%20(1).pdf
+if you want to visit my real pdf here is the link->https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/SCHEMATICS/SCHEMATICS_V1.0.pdf
 thanks for visiting :)
