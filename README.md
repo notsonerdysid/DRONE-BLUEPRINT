@@ -18,7 +18,7 @@ Motor       : R2207 2450KV Brushless Motor
 Propeller   : Gemfan Flash 5149 Propeller
 Battery     : Tattu funfly 1550mAh 100C 14.8V 4S-LiPo Battery
 Firmware    : Betaflight  
-Detailed Parts List with pricing and etc: [Link Text](BOM.md)  
+Detailed Parts List with pricing and etc: [[Link Text](BOM.md)  ](https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv)
 
   
 **Learning Objectives**
