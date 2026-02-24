@@ -142,7 +142,7 @@ without components
 <img width="1215" height="767" alt="Screenshot 2026-02-22 125300" src="https://github.com/user-attachments/assets/79a6ad11-995f-4bb7-94c0-9d9b2e6e1c2a" />
 what i fixed from yesterday's design
 1. turned a single block print into 5 diff parts(1 base plate + 4 arms)-> what this allows is if i crashed or anything i can print that specific part only rathe than spending big money on whole piece again.
-2. i will use heat srews instead of making 3d printed thread
+2. i will use heat-set brass inserts instead of making 3d printed thread
 3. i moved the pocket
 I am sure I will have really fun building this, cant wait
 Well I have drop the idea to add landing pads rightnow because my concern rn is to make the drone fly. after i will fly then only i will upgrade with those stuff + i need to reach budget also.
@@ -151,6 +151,9 @@ Well I have drop the idea to add landing pads rightnow because my concern rn is 
 feb23,2026: day 15->
 As all the main works are complete at this point, today I refined my BOM.md and BOM.csv. I tried to minimize the budget from $400 to $332.93, which i am really proud of. I tried to minimize unnessary expenses and try to only include things that are really value for money.
 y'all can check my new bom here: https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv
+
+feb24, 2026: day 16->
+Today I updated all of my files in my repo. YES I am ready to submit now-> kinda nervous.
 
 
 
