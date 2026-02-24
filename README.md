@@ -6,15 +6,15 @@ for(age = 5; !I_understand_how_it_works; age++)
 
     ask_question("How could that big and heavy thing fly as if it were a feather?");
 }
-` c++ reference lol. 
+**//c++ reference lol** 
 
-Red Vimana (in which it means mystical flying vehicle in Sanskrit) is my attempt to finally answer that question for myself by building my own drone.
+Red Vimana (in which Vimana means mystical flying vehicle in Sanskrit) is my attempt to finally answer that question for myself by building my own drone.
 I’m moving from "wondering how things fly" to "making things fly." This project for me is about more than just a drone but it’s about mastering the physics, the electronics, and the grit required to build a complex machine that defies gravity.  
 
 
 **The Build:**
 The Brain   : SpeedyBee F405 v4
-Motor       : RS2205 2300KV CW Brushless Motor
+Motor       : R2207 2450KV Brushless Motor
 Propeller   : Gemfan Flash 5149 Propeller
 Battery     : Tattu funfly 1550mAh 100C 14.8V 4S-LiPo Battery
 Firmware    : Betaflight  
