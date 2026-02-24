@@ -12,13 +12,13 @@ Red Vimana (in which Vimana means mystical flying vehicle in Sanskrit) is my att
 I’m moving from "wondering how things fly" to "making things fly." This project for me is about more than just a drone but it’s about mastering the physics, the electronics, and the grit required to build a complex machine that defies gravity.  
 
 
-**The Build:**
-The Brain   : SpeedyBee F405 v4
-Motor       : R2207 2450KV Brushless Motor
-Propeller   : Gemfan Flash 5149 Propeller
-Battery     : Tattu funfly 1550mAh 100C 14.8V 4S-LiPo Battery
-Firmware    : Betaflight  
-Detailed Parts List with pricing and etc: [[Link Text](BOM.md)  ](https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv)
+**The Build:**  
+The Brain   : SpeedyBee F405 v4  
+Motor       : R2207 2450KV Brushless Motor  
+Propeller   : Gemfan Flash 5149 Propeller  
+Battery     : Tattu funfly 1550mAh 100C 14.8V 4S-LiPo Battery  
+Firmware    : Betaflight    
+Detailed Parts List with pricing and etc: [[Link Text](BOM.md)  ](https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv)  
 
   
 **Learning Objectives**
