@@ -6,7 +6,7 @@ for(age = 5; !I_understand_how_it_works; age++)
 
     ask_question("How could that big and heavy thing fly as if it were a feather?");
 }
-**//c++ reference lol** 
+**//c++ reference lol*
 
 Red Vimana (in which Vimana means mystical flying vehicle in Sanskrit) is my attempt to finally answer that question for myself by building my own drone.
 I’m moving from "wondering how things fly" to "making things fly." This project for me is about more than just a drone but it’s about mastering the physics, the electronics, and the grit required to build a complex machine that defies gravity.  
@@ -17,8 +17,8 @@ The Brain   : SpeedyBee F405 v4
 Motor       : R2207 2450KV Brushless Motor  
 Propeller   : Gemfan Flash 5149 Propeller  
 Battery     : Tattu funfly 1550mAh 100C 14.8V 4S-LiPo Battery  
-Firmware    : Betaflight    
-Detailed Parts List with pricing and etc: [[Link Text](BOM.md)  ](https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv)  
+Firmware    : Betaflight  
+Detailed Parts List with pricing and etc: https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv 
 
   
 **Learning Objectives**
@@ -45,7 +45,7 @@ for more info you can check out this link:
 
     
 **3D Design for my Drone**
-I get myself to learn 3d designing on Onshape before that i used to design only on tinkercad, I is really a JUMP which I am really proud of. I'll be using PETG as my material for the drone. It is light, durable, strong. My drone's weight will be around 670gm (290gm frame alone) which in my opinion is not very ideal for 5" drone but I prioritize safe and stable flight first. And after I will make my drone fly I will be upgrading its frame to have weight of around 100gm but later on. I have been suggested to change some of my design flaws like not to cover motor or to not make arm that thick but despites all of that I want to do it anyway because I want to actually see why I was wrong there.  
+I get myself to learn 3d designing on Onshape before that i used to design only on tinkercad, It is really a JUMP which I am really proud of. My drone's weight will be around 670gm (290gm frame alone) which in my opinion is not very ideal for 5" drone but I prioritize safe and stable flight first. And after I will make my drone fly I will be upgrading its frame to have weight of around 100gm but later on. I'll be using PETG as my material for the drone, though it is not very stiff as compared to PLA,i have Arm thickness of 8mm and since my drone will be quite heavier PETG is better choice as it has better heat resistance.
 For the real drone design here are the all the measurements:  
 1. Wheelbase : 240mm
 2. Each arm length: 120mm
@@ -65,7 +65,7 @@ onshape link : https://shorturl.at/gFCdQ
 
 **Budget and Funding Use**
 
-I have estimated the cost of essential components is approximately $332.93.
+I have estimated the cost of essential components is approximately $332.19.
 A detailed parts list with pricing and links is provided in the Bills of Materials document.
 LINKS FOR THE BOM:-
 .csv file : [https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv](url)    
@@ -75,16 +75,18 @@ I have tried to make t the budget below the funding limit. Any additional costs 
 Funding will be used only for essential learning components.
 
 **Summary for how I spend my time before submitting**
-I have invested 73+ hours over 16 days designing, engineering and learning new stuff for this drone from very basic.  
+I have invested 75+ hours over 16 days designing, engineering and learning new stuff for this drone from very basic.  
 *I have worked researching, learning 3d designing from Tinkercad to Onshape, electronics and schematics planning, Learning how does a Drone even fly, and cost optimization, journalling, debugging Drone design over and over*  
 I litterly design my drone frame again and again for more than 6 times through multiple frame designs to ensure to maintain structural strength, safe and stable flight performance.
-I learned some basic engineering principles such as thrust-to-weight analysis in which I have resulted with ratio of 6:1 at max thrust, Basics for what is Pid control, and etc.
-I created detailed schematics and a complete bill of materials while reducing the budget from $400 to $332.93. 
+I learned some basic engineering principles such as thrust-to-weight analysis in which I have resulted with ratio of 8.05:1 at max thrust, Basics for what is Pid control, and etc.
+I created detailed schematics and a complete bill of materials while reducing the budget from $400 to $326.07. 
 I learned basics for how imu sensor coordinate with FC and ESC.
 I also journal everything I worked with for everyday for past 16 days.   
-here is a pdf that where I have clicked photos of the notes ( I like to study making notes ) I created during prototyping and learning( these photos arent mentioned before thats why i put it for standing on my favor that I really spended over 73+ hours )  
-LINK: [https://drive.google.com/file/d/1fnM4xNsK86z5Zi4jRAErgGUUMKQ07n5t/view?usp=sharing](url)
+here is a pdf that where I have clicked photos of the notes ( I like to study making notes) which I had created during prototyping and learning( these photos arent mentioned before thats why i put i here for proof that i am not saying 75+ hour)  
+LINK: [https://drive.google.com/file/d/1fnM4xNsK86z5Zi4jRAErgGUUMKQ07n5t/view?usp=sharing](url)  
 
+**Action**
+I will add a soft-mount the Flight Controller. A heavy 3D-printed frame will vibrate crazy and Betaflight's gyro will hate it. I will use M3 heat-set brass inserts. My battery will be positioned underneath the base plate as shown in the design and will attatch it with the help of a strap
 
 In this project I will demonstrate my self-driven learning and technical problem solving.
 All of my progress, failures, and improvements are openly documented for transparency and reproducibility.
@@ -92,5 +94,5 @@ The design phase is complete and ready for physical prototyping and testing.
 Funding will directly enable hardware implementation and validation of this engineered system.
 This support will accelerate my growth as a builder and help transform theory into real flight.
 
-THANK YOU!
+THANK YOU!!
 
