@@ -37,14 +37,14 @@ I will be using Radiomaster Pocket Radio Controller because it offers hall-effec
 and I will configure the flight controller using Betaflight 4.5, to tune the PID values to make my drone stable.
   
   
-**Schematics circuit diagram**
+**Schematics circuit diagram**  
 I created my schematics diagram with the help of EasyEDA,which looks like this:
 <img width="730" height="515" alt="image" src="https://github.com/user-attachments/assets/fae1e27f-8f86-43b9-a7be-4627f83d132f" />  
 for more info you can check out this link:
 [SCHEMATICS/SCHEMATICS.md](https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/SCHEMATICS/SCHEMATICS.md)
 
     
-**3D Design for my Drone**
+**3D Design for my Drone**  
 I get myself to learn 3d designing on Onshape before that i used to design only on tinkercad, It is really a JUMP which I am really proud of. My drone's weight will be around 670gm (290gm frame alone) which in my opinion is not very ideal for 5" drone but I prioritize safe and stable flight first. And after I will make my drone fly I will be upgrading its frame to have weight of around 100gm but later on. I'll be using PETG as my material for the drone, though it is not very stiff as compared to PLA,i have Arm thickness of 8mm and since my drone will be quite heavier PETG is better choice as it has better heat resistance.
 For the real drone design here are the all the measurements:  
 1. Wheelbase : 240mm
@@ -61,9 +61,9 @@ with components
 LINKS TO CHECK OUT MY DRONE DESIGN:-  
 .stl FILE : https://shorturl.at/KBjj4    
 .step FILE : https://shorturl.at/8738H    
-onshape link : https://shorturl.at/gFCdQ    
+onshape link : https://shorturl.at/gFCdQ      
 
-**Budget and Funding Use**
+**Budget and Funding Use**  
 
 I have estimated the cost of essential components is approximately $332.19.
 A detailed parts list with pricing and links is provided in the Bills of Materials document.
@@ -74,7 +74,8 @@ docs File : [https://docs.google.com/document/d/1cGEEqKZGyfhhKSGbjoTj9GcO14NI_GN
 I have tried to make t the budget below the funding limit. Any additional costs caused by shipping or unforeseen expenses will be covered personally. Minor assembly materials like soldering iron, screws, zip tie, double tape, etc will also be provided by me.
 Funding will be used only for essential learning components.
 
-**Summary for how I spend my time before submitting**
+**Summary for how I spend my time before submitting**  
+
 I have invested 75+ hours over 16 days designing, engineering and learning new stuff for this drone from very basic.  
 *I have worked researching, learning 3d designing from Tinkercad to Onshape, electronics and schematics planning, Learning how does a Drone even fly, and cost optimization, journalling, debugging Drone design over and over*  
 I litterly design my drone frame again and again for more than 6 times through multiple frame designs to ensure to maintain structural strength, safe and stable flight performance.
@@ -85,7 +86,7 @@ I also journal everything I worked with for everyday for past 16 days.
 here is a pdf that where I have clicked photos of the notes ( I like to study making notes) which I had created during prototyping and learning( these photos arent mentioned before thats why i put i here for proof that i am not saying 75+ hour)  
 LINK: [https://drive.google.com/file/d/1fnM4xNsK86z5Zi4jRAErgGUUMKQ07n5t/view?usp=sharing](url)  
 
-**Action**
+**Action**  
 I will add a soft-mount the Flight Controller. A heavy 3D-printed frame will vibrate crazy and Betaflight's gyro will hate it. I will use M3 heat-set brass inserts. My battery will be positioned underneath the base plate as shown in the design and will attatch it with the help of a strap
 
 In this project I will demonstrate my self-driven learning and technical problem solving.
