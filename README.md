@@ -22,15 +22,13 @@ Detailed Parts List with pricing and etc: https://github.com/notsonerdysid/DRONE
 
   
 **Learning Objectives**
-Through this project, I aim to develop practical engineering skills in:
+Through this project, I am aiming to develop practical engineering skills in:
 - Flight dynamics and thrust generation
-- Flight controller architecture and stabilization systems
-- PID tuning and control systems using Betaflight
-- Master using Onshape(starting from tinkercad)
-- Electronics integration and circuit planning
+- Stable Flight 
+- Master CAD using Onshape(starting from tinkercad)
 - LiPo battery safety and power management
-- Debugging and testing embedded systems  
-My main goal is to gain hands-on understanding of how hardware, software, and the physics behind which will work together in autonomous systems.
+- Debugging and testing my drone 
+My main goal is to learn and gain hands on skills and understanding  how hardware, software, and the physics behind which will work together in autonomous systems.
 
 How would I fly this?
 I will be using Radiomaster Pocket Radio Controller because it offers hall-effect gimbals and also very afforable; ELRS version recommended for the HGLRC receiver which can give range upto more than 1.6km. I'll upgrade this same drone in fpv monster later on in future, with the upgrades like adding cool landing pad and more
@@ -75,9 +73,9 @@ Funding will be used only for essential learning components.
 
 **Summary for how I spend my time before submitting**  
 I have invested 75+ hours over 16 days designing, engineering and learning new stuff for this drone from very basic.  
-*I have worked researching, learning 3d designing from Tinkercad to Onshape, electronics and schematics planning, Learning how does a Drone even fly, and cost optimization, journalling, debugging Drone design over and over*  
-I litterly design my drone frame again and again for more than 6 times through multiple frame designs to ensure to maintain structural strength, safe and stable flight performance.
-I learned some basic engineering principles such as thrust-to-weight analysis in which I have resulted with ratio of 8.05:1 at max thrust, Basics for what is Pid control, and etc.
+*I have worked researching about the system and components, learning 3d designing from Tinkercad to Onshape, planning electronics and schematics, Learning how does a Drone even fly, and cost optimization, journalling, debugging Drone design over and over*  
+I literally design my drone frame again and again for more than 6 times through multiple frame designs to ensure to maintain structural strength, safe and stable flight performance.
+I learned some basic engineering principles such as thrust to weight analysis in which I have resulted with ratio of 8.05:1 at max thrust, Basics for what is Pid control, and etc.
 I created detailed schematics and a complete bill of materials while reducing the budget from $400 to $326.07. 
 I learned basics for how imu sensor coordinate with FC and ESC.
 I also journal everything I worked with for everyday for past 16 days.   
@@ -88,9 +86,7 @@ LINK: [https://drive.google.com/file/d/1fnM4xNsK86z5Zi4jRAErgGUUMKQ07n5t/view?us
 I will add a soft-mount the Flight Controller. A heavy 3D-printed frame will vibrate crazy and Betaflight's gyro will hate it. I will use M3 heat-set brass inserts. My battery will be positioned underneath the base plate as shown in the design and will attatch it with the help of a strap
 
 In this project I will demonstrate my self-driven learning and technical problem solving.
-All of my progress, failures, and improvements are openly documented for transparency and reproducibility.
-The design phase is complete and ready for physical prototyping and testing.
-Funding will directly enable hardware implementation and validation of this engineered system.
+All of my progress, failures, and improvements will be openly documented in this repo..
 This support will accelerate my growth as a builder and help transform theory into real flight.
 
 THANK YOU!!
