@@ -59,8 +59,8 @@ Without Components
 with components
 <img width="1003" height="676" alt="Screenshot 2026-02-24 144842" src="https://github.com/user-attachments/assets/d288c8c2-b4e9-490e-922d-289f56c26032" />  
 LINKS TO CHECK OUT MY DRONE DESIGN:-  
-.stl FILE : (https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/FRAME%20DESIGN/DRONE%20DESIGN%20V3.0.step)  
-.step FILE : (https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/FRAME%20DESIGN/DRONE%20DESIGN%20V3.0.stl)  
+.step FILE : (https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/FRAME%20DESIGN/DRONE%20DESIGN%20V3.0.step)  
+.stl FILE : (https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/FRAME%20DESIGN/DRONE%20DESIGN%20V3.0.stl)  
 onshape link : https://cad.onshape.com/documents/e85d7f9eb9a1812312bbe570/w/3836bb74fdebc3d255a65e92/e/69b71edf874c67ab1f65e7c8?renderMode=0&uiState=699ddd75395985ace820c65e     
 
 **Budget and Funding Use**  
