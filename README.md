@@ -67,9 +67,9 @@ onshape link : https://cad.onshape.com/documents/e85d7f9eb9a1812312bbe570/w/3836
 I have estimated the cost of essential components is approximately $332.19.
 A detailed parts list with pricing and links is provided in the Bills of Materials document.
 LINKS FOR THE BOM:-
-.csv file : https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv
-docs File : https://docs.google.com/document/d/1cGEEqKZGyfhhKSGbjoTj9GcO14NI_GNIEH85b2QIAr4/edit?usp=sharing
-.md File :  http://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.md 
+.csv file : https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv  
+docs File : https://docs.google.com/document/d/1cGEEqKZGyfhhKSGbjoTj9GcO14NI_GNIEH85b2QIAr4/edit?usp=sharing  
+.md File :  http://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.md   
 I have tried to make t the budget below the funding limit. Any additional costs caused by shipping or unforeseen expenses will be covered personally. Minor assembly materials like soldering iron, screws, zip tie, double tape, etc will also be provided by me.
 Funding will be used only for essential learning components.
 
