@@ -67,7 +67,7 @@ LINKS FOR THE BOM:-
 .csv file : https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv  
 docs File : https://docs.google.com/document/d/1cGEEqKZGyfhhKSGbjoTj9GcO14NI_GNIEH85b2QIAr4/edit?usp=sharing  
 .md File :  http://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.md   
-I have tried to make t the budget below the funding limit. Any additional costs caused by shipping or unforeseen expenses will be covered personally. Minor assembly materials like soldering iron, screws, zip tie, double tape, etc will also be provided by me.
+I have tried to make t the budget below the funding limit. Any additional costs caused by shipping or unforeseen expenses will be covered personally. Minor assembly materials like soldering iron, screws, zip tie, double tape, buzzer and etc will also be provided by me.
 Funding will be used only for essential learning components.
 
 **Summary for how I spend my time before submitting**  
