@@ -16,7 +16,7 @@ I’m moving from "wondering how anything flys" to "making things fly." This pro
 The Brain   : SpeedyBee F405 v4  
 Motor       : R2207 2450KV Brushless Motor  
 Propeller   : Gemfan Flash 5149 Propeller  
-Battery     : Tattu funfly 1550mAh 100C 14.8V 4S-LiPo Battery  
+Battery     : OVONIC LiPo Battery
 Firmware    : Betaflight  
 Detailed Parts List with pricing and etc: https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv 
 
@@ -42,7 +42,7 @@ for more info you can check out this link:
 
     
 **3D Design for my Drone**  
-I get myself to learn 3d designing on Onshape before that i used to design only on tinkercad, It is really a JUMP which I am really proud of. My drone's weight will be around 670gm (290gm frame alone) which in my opinion is not very ideal for 5" drone but I prioritize safe and stable flight first. And after I will make my drone fly I will be upgrading its frame to have weight of around 100gm but later on. I'll be using PETG as my material for the drone, though it is not very stiff as compared to PLA, thats why i have Arm thickness of 8mm to make it stiffer. My drone will be quite heavier PETG is better choice as it has better heat resistance.
+I get myself to learn 3d designing on Onshape before that i used to design only on tinkercad, It is really a JUMP which I am really proud of. My drone's weight will be around 670gm (290gm frame alone) which in my opinion is not very ideal for 5" drone but I prioritize safe and stable flight first. And after I will make my drone fly I will be upgrading its frame to have weight of around 100gm but later on. I'll be using PETG as my material for the drone, though it is not very stiff as compared to PLA, thats why i have Arm thickness of 8mm to make it stiffer. My drone will be quite heavier PETG is better choice as it has better heat resistance. And also PETG vibrates alot thus i will be soft mounting underneath the motors.
 For the real drone design here are the all the measurements:  
 1. Wheelbase : 240mm
 2. Each arm length: 120mm
@@ -61,7 +61,7 @@ LINKS TO CHECK OUT MY DRONE DESIGN:-
 onshape link : https://cad.onshape.com/documents/e85d7f9eb9a1812312bbe570/w/3836bb74fdebc3d255a65e92/e/69b71edf874c67ab1f65e7c8?renderMode=0&uiState=699ddd75395985ace820c65e     
 
 **Budget and Funding Use**  
-I have estimated the cost of essential components is approximately $332.19.
+I have estimated the cost of essential components is approximately $338.04.
 A detailed parts list with pricing and links is provided in the Bills of Materials document.
 LINKS FOR THE BOM:-  
 .csv file : https://github.com/notsonerdysid/DRONE-BLUEPRINT/blob/main/BILLS%20OF%20MATERIAL/BOM.csv  
@@ -82,8 +82,8 @@ here is a pdf that where I have clicked photos of the notes ( I like to study ma
 LINK: [https://drive.google.com/file/d/1fnM4xNsK86z5Zi4jRAErgGUUMKQ07n5t/view?usp=sharing](url)  
 
 **Action**  
-I will add a soft-mount the Flight Controller. A heavy 3D-printed frame will vibrate crazy and Betaflight's gyro will hate it. I will use M3 heat-set brass inserts. My battery will be positioned underneath the base plate as shown in the design and will attatch it with the help of a strap.  
-In future I'll upgrade this same drone in fpv monster later on in future, with the upgrades like adding cool landing pad and more.  
+I will add 1mm 95A TPU gaskets and silicone grommets to the motors to make the drone vibrate less. A heavy 3D-printed frame will vibrate crazy and Betaflight's gyro will hate it. I will use M3 heat-set brass inserts. My battery will be positioned underneath the base plate as shown in the design and will attatch it with the help of a strap.  
+I am making it non fpv right now but in future I'll upgrade this same drone in fpv monster later on in future, with the upgrades like adding cool landing pad and more.  
 
 In this project I will demonstrate my self-driven learning and technical problem solving.
 All of my progress, failures, and improvements will be openly documented in this repo..
