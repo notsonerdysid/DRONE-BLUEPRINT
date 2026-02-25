@@ -8,8 +8,8 @@ for(age = 5; !I_understand_how_it_works; age++)
 }
 **//c++ reference lol*
 
-Red Vimana (in which Vimana means mystical flying vehicle in Sanskrit) is my attempt to finally answer that question for myself by building my own drone.
-I’m moving from "wondering how things fly" to "making things fly." This project for me is about more than just a drone but it’s about mastering the physics, the electronics, and the grit required to build a complex machine that defies gravity.  
+Red Vimana (in which Vimana means mystical flying vehicle in Sanskrit) is my attempt to finally answer the question that had been bugging me by building my own drone.
+I’m moving from "wondering how anything flys" to "making things fly." This project for me is more than just a drone but it’s about mastering the physics, the electronics, and the grit that is required to build a machine that defies gravity.  
 
 
 **The Build:**  
@@ -31,8 +31,7 @@ Through this project, I am aiming to develop practical engineering skills in:
 My main goal is to learn and gain hands on skills and understanding  how hardware, software, and the physics behind which will work together in autonomous systems.
 
 How would I fly this?
-I will be using Radiomaster Pocket Radio Controller because it offers hall-effect gimbals and also very afforable; ELRS version recommended for the HGLRC receiver which can give range upto more than 1.6km. I'll upgrade this same drone in fpv monster later on in future, with the upgrades like adding cool landing pad and more
-and I will configure the flight controller using Betaflight 4.5, to tune the PID values to make my drone stable.
+I will be using Radiomaster Pocket Radio Controller because it offers hall-effect gimbals and also very afforable; ELRS version recommended for the HGLRC receiver which has the range upto more than 1.6km. I will configure the flight controller using Betaflight 4.5, to tune the PID values to make my drone stable.
   
   
 **Schematics circuit diagram**  
@@ -43,7 +42,7 @@ for more info you can check out this link:
 
     
 **3D Design for my Drone**  
-I get myself to learn 3d designing on Onshape before that i used to design only on tinkercad, It is really a JUMP which I am really proud of. My drone's weight will be around 670gm (290gm frame alone) which in my opinion is not very ideal for 5" drone but I prioritize safe and stable flight first. And after I will make my drone fly I will be upgrading its frame to have weight of around 100gm but later on. I'll be using PETG as my material for the drone, though it is not very stiff as compared to PLA,i have Arm thickness of 8mm and since my drone will be quite heavier PETG is better choice as it has better heat resistance.
+I get myself to learn 3d designing on Onshape before that i used to design only on tinkercad, It is really a JUMP which I am really proud of. My drone's weight will be around 670gm (290gm frame alone) which in my opinion is not very ideal for 5" drone but I prioritize safe and stable flight first. And after I will make my drone fly I will be upgrading its frame to have weight of around 100gm but later on. I'll be using PETG as my material for the drone, though it is not very stiff as compared to PLA, thats why i have Arm thickness of 8mm to make it stiffer. My drone will be quite heavier PETG is better choice as it has better heat resistance.
 For the real drone design here are the all the measurements:  
 1. Wheelbase : 240mm
 2. Each arm length: 120mm
@@ -83,7 +82,8 @@ here is a pdf that where I have clicked photos of the notes ( I like to study ma
 LINK: [https://drive.google.com/file/d/1fnM4xNsK86z5Zi4jRAErgGUUMKQ07n5t/view?usp=sharing](url)  
 
 **Action**  
-I will add a soft-mount the Flight Controller. A heavy 3D-printed frame will vibrate crazy and Betaflight's gyro will hate it. I will use M3 heat-set brass inserts. My battery will be positioned underneath the base plate as shown in the design and will attatch it with the help of a strap
+I will add a soft-mount the Flight Controller. A heavy 3D-printed frame will vibrate crazy and Betaflight's gyro will hate it. I will use M3 heat-set brass inserts. My battery will be positioned underneath the base plate as shown in the design and will attatch it with the help of a strap.  
+In future I'll upgrade this same drone in fpv monster later on in future, with the upgrades like adding cool landing pad and more.  
 
 In this project I will demonstrate my self-driven learning and technical problem solving.
 All of my progress, failures, and improvements will be openly documented in this repo..
